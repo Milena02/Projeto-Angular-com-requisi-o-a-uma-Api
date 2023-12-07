@@ -1,0 +1,15 @@
+
+
+html, body { height: 70%; }
+body { margin: 10; font-family: Jazz LET, fantasy	, "Helvetica Neue", Impact, Haettenschweiler, Georgia, serif }
+
+
+body {
+    background-color: pink;
+    margin: 5% 0;
+    border: 30px solid #FF1493;
+  }
+  
+  h1 {
+    color: green;
+  }
